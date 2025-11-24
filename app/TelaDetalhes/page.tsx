@@ -2,7 +2,7 @@ import { DetalhesContainer } from "@/components/ContainerDetalhes";
 import { HeaderDetalhes } from "@/components/HeaderDetalhes";
 
 
-export default function TelaDetalhes() {
+export default function TelaDetalhesPage() {
 
   return (
     <> 

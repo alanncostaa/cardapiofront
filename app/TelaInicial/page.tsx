@@ -4,7 +4,7 @@ import { InicialContainer } from "@/components/ContainerInicial";
 import { HeaderInicial } from "@/components/HeaderInicial";
 
 
-export function TelaInicialPage() {
+export function Page() {
 
   return (
     <> 

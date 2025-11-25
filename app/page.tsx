@@ -1,11 +1,11 @@
 "use client";
 
-import { TelaInicialPage } from "./TelaInicial/page";
+import { Page } from "./TelaInicial/page";
 
 export default function Home() {
   return (
     <>
-    <TelaInicialPage></TelaInicialPage>
+    <Page></Page>
     </>
   );
 }

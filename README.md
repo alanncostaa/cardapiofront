@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Crie um arquivo .env na raiz com a variavel NEXT_PUBLIC_API_URL="LOCAL DA API" 
+
+First, run the development server:
 
 ## Getting Started
 
